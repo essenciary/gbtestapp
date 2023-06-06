@@ -1,0 +1,9 @@
+┌ Info: 2023-06-06 12:21:27 Watching ["/home/coder/.julia/geniebuilder/apps/createdapp"]
+└ @ GenieAutoReload /home/coder/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-06-06 12:21:34 Watching ["/home/coder/.julia/geniebuilder/apps/createdapp"]
+└ @ GenieAutoReload /home/coder/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2023-06-06 12:21:35 
+│ Web Server starting at http://0.0.0.0:9105 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server /home/coder/.julia/packages/Genie/Jummj/src/Server.jl:161
+┌ Info: 2023-06-06 12:21:36 Listening on: 0.0.0.0:9105, thread id: 1
+└ @ HTTP.Servers /home/coder/.julia/packages/HTTP/uAaAw/src/Servers.jl:366
